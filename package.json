@@ -1,0 +1,24 @@
+{
+   "name": "node-lab2",
+   "version": "1.0.0",
+   "description": "Lab work #2, learning native Node API",
+   "main": "index.js",
+   "type": "module",
+   "engines": {
+      "node": "18.x"
+   },
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node app.js"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/Illya-01/node-lab2.git"
+   },
+   "author": "Illia Roman, student of IO-12 group",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/Illya-01/node-lab2/issues"
+   },
+   "homepage": "https://github.com/Illya-01/node-lab2#readme"
+}
